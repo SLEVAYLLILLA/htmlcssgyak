@@ -1,0 +1,40 @@
+nav{
+    background-color:beige;
+    padding: 2px;
+    position: fixed;
+    float: left;
+    height: 100%;
+    width: 15%;
+    top:0px;
+    text-align: center;
+}
+
+a {
+    display:inline-block;
+    text-decoration: none;
+    color:darkslategrey;
+    font-family: serif;
+    margin-top: 2%;
+}
+
+a:hover{
+    background-color: darkgrey;
+}
+
+.site{
+    width: 85%;
+    height:100%;
+    float:left;
+    margin-left: 200px;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+h1,h3,b{
+    color:darkslategrey;
+}
+
+.a{
+    border:5px solid white;
+    margin: 8px;
+}
